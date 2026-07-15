@@ -1,0 +1,21 @@
+[
+  {
+    "student_email": "rabs@gmail.com",
+    "student_name": "Rabs",
+    "organization": "university",
+    "title": "Viva",
+    "message": "Viva tomorrow on Observer Design Pattern at 2 pm",
+    "classroom": "CSE-3216",
+    "status": "unread"
+  },
+  {
+    "student_name": "Farhan",
+    "student_email": "rabs@gmail.com",
+    "organization": "university",
+    "classroom": "CSE-3216",
+    "teacher": "Md. Tanvir Alam",
+    "title": "Weekly Viva",
+    "message": "Viva tomorrow at 2 PM on Observer Design Pattern.",
+    "status": "unread"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "student_name": "Abs",
+    "student_email": "bojack@gmail.com",
+    "organization": "university",
+    "classroom": "CSE-3216",
+    "teacher": "Md. Tanvir Alam",
+    "title": "Weekly Viva",
+    "message": "Viva tomorrow at 2 PM on Observer Design Pattern.",
+    "status": "unread"
+  }
+]
